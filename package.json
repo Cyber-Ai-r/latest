@@ -1,0 +1,9 @@
+{
+  "name": "latest",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Latest project",
+  "scripts": {
+    "test": "echo \"No tests configured\""
+  }
+}
